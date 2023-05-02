@@ -1,1 +1,1 @@
-# makeup-store
+# makeup-store project
